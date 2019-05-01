@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "handy-contact-237400",
+  "private_key_id": "d1bf666395202c335266d7beaeabc4d7c1644452",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnUeSeQ6B9ni2D\nrsknOQVGsZDBSljQBgRMEImB/OVTkDifVES/Ux41BrOObhv2pqfC75uYoh7lmELf\nrQOgwAmtv9AjpwpVmdfJJNxbagYWccqLx9gZz53tGJSZHFf0MOeF26PW0grwlRBh\nduTA/CYmnAxfqtMG8+86C6JZ9tpUlshicGhH2sdJjOQeaIG8ZM3EE5V5MRs0k3v+\n86ko45bwl3CTIfIKCZiaCkNtAHE29dks3klmb7gmfi0s1+PTB8/JHqCqOTPtRN/P\n0eCrKA74Xh0RdtVr5K011wACMJ/TtiBva5lRe/Gz6x2VL7+4W3Oc/IRB2HZhsvX2\nHEgQUOnhAgMBAAECggEANAdgGuKWlllId+ky/bJadKgkhiZzRYSJc4m06KnWOczf\n/pN6qS/UddK2pPSSV3ltM03EyYqoJubY7KrlNOhiWhgKRfvcV8/17MM8jmSCrhoG\nTL8A8M3BoweAtbe9ld5bMCGjadp4smT36gbJjUUbK+hcZKc+5auW2Sri+iyrqZ+T\n/iFJFeTC09jvzNUqmh3yGx3vmi2NXyOK3rQSmKUVFZeZK3rAoM4+dyt8WgXstBRd\nFo5W4yipfFkvDtGdaMHVJ4nhD/4RXuTXAtg4R2Ak1RwBSt6RLdXzGBYVwPxGi0+s\nB5XkWj9jgK0d4R+ErLp1p7B765MfsTbGprDkbXmDbQKBgQDnYdKRM0qTRZhSQAjM\nq9MF2Cw00NxfUJPUj+9byoo9s0LkR+F/7odKrQ7U1xt/iKpNOjyUeqP7adhPmkqs\n1hDhAevGDZhWB2V2wm/pJVWUB+4ewJHFaGjYiSVVCZR2PIYyUDAbU65vhHGsQXZ+\n1OYyUkUReVbVymUlb+XxocXCNwKBgQC5HzOQN1L60DDFZpIpxjVY6Sb4Pb2racjV\nZQ5Pcd/T4tAV0jsbBWBfBG+ZLTy6/G36FFR7m3FVVuAI6UIhEBfosYdjacA3g+/k\nkLpAL6eKdmzffZRTh27ODdIeDN8/yvCTclSnjqH8CRo3U1RIddQEgLGMlbFVkRrj\n3SJWZu6IpwKBgCr8ClE9NRp88Fo/WSMkvJQ2X6gEMRxn7L6taqsjymDB/6hHDkZk\n+q9NzRaPS6V6ryCftAdlbTdUp4HKSRsovYP/hlyJxAYfY6MXZhDrBaX1fzApWCtT\nRT8M42mT2QfKIKgSK424EwzWjwOQOcJALO+mRvyDDTW0XuwAiLhF9GYrAoGAKtP3\nH/RMtE4aGnFCe3upt+oo4+GU0eVlW0lH6EVWHTUqIwJCPlweEZ17HBsFI9VmtCaj\n7PznWXEB383nSLLqdSEtS2iZ2b4ib+Sz0km0HyqKwaHSAQkiL3WvGNithZqz0cjv\noNw0yZRphkc3BpSL+oazjOzM3Bj3+aOdYBPsN50CgYEAtJ+FcevSfST2uc8BwNk6\nUKypwa3lf2FDAiDxcv+S2ggj/uMoTXAh3jJMiDdvsIkwhnGB06lWHScWrSh5R+CK\n/fLEw74p/6TDQSeTWynOKUkU9xkBOW4PipJVI5wrT8AqiETNGsZn82bMqJjhICZF\nQkztGEcpNMLrff9UXmqiztc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "duardo@handy-contact-237400.iam.gserviceaccount.com",
+  "client_id": "112187467126868977218",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/duardo%40handy-contact-237400.iam.gserviceaccount.com"
+}
